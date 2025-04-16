@@ -16,5 +16,5 @@ To view a copy of this license, visit [https://creativecommons.org/licenses/by-s
 
 Unless otherwise stated, all textual content, figures, and HTML files in this repository are covered by this license.
 
-© 2025 Paulo Sergio Panse Silveira
+© 2025 Paulo Sergio Panse Silveira, Jose Oliveira Siqueira
 
