@@ -1,6 +1,6 @@
 # Educational Material — FMUSP
 
-This repository contains educational content developed by Paulo Sergio Panse Silveira and Jose Oliveira Siqueira, covering topics in biostatistics and diagnostic test evaluation. The material is presented as HTML documents generated from Quarto or RMarkdown, and includes supporting R and Python scripts.
+This repository contains educational content developed by Paulo Sergio Panse Silveira and Jose Oliveira Siqueira. The material is presented as HTML documents generated from RMarkdown and includes supporting scripts to reproduce the procedures presented.
 
 ## Contents
 
