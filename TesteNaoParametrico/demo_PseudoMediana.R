@@ -1,6 +1,7 @@
 # demo_PseudoMediana.R
 
 v <- c(8,8,11,12,20)
+v <- c(2,3,3,3,3,3,4,4,4,5)
 
 cat("\nValores:",v," (total de",length(v),"valores)\n")
 m <- c()
